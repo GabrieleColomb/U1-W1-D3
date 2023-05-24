@@ -1,0 +1,39 @@
+header {
+    display: flex;
+    justify-content: center;
+    height: 70px;
+}
+
+nav{
+    text-align: center;
+    background-color: rgb(255, 255, 222);
+    padding: 1vh;
+    margin-top: 2vh;
+    border-top: 1px solid yellow;
+    height: 10%;
+    width: 100%;
+}
+
+.container {
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.author {
+    color: grey;
+}
+
+.featured {
+    margin: 0;
+    border: none;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+} 
+
+main {
+    text-align: center;
+    text-align: left;
+}
+
